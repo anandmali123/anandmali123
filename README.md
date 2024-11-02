@@ -49,7 +49,7 @@ I'm a passionate developer and data enthusiast skilled in building full-stack ap
 
 Here are a few projects that showcase my skills:
 
-- [**Workforce Management System**](#) - An ML-powered project for employee attrition, performance evaluation using Flask, SQLite, and scikit-learn
+- [**Workforce Management System**](https://github.com/anandmali123/Work-Force-Management-Using-Machine-Learning-) - An ML-powered project for employee attrition, performance evaluation using Flask, SQLite, and scikit-learn
 - [**Microscope E-commerce Site**](#) - A full-stack e-commerce website for selling microscopes, built with the MERN stack and integrated payment gateway
 - [**Excel Slicers for Data Reporting**](#) - Created advanced slicers for interactive data reporting across multiple charts and reports in Excel
 
